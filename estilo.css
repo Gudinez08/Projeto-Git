@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #e4e4e4;
+    color: #000;
+    font-family: Arial;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+
+
+#jo img{
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+
+}
