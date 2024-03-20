@@ -64,4 +64,4 @@
 
 <p>Por fim, carregamos as alterações para o repositório</p><br>
 
-<p>Repetindo esses processos, você pode realizar commits importar e exportar arquivos entre o repositório e o remoto sem problemas</p>
+<p>Repetindo esses processos, você pode realizar commits importar e exportar arquivos entre o repositório e o remoto sem problemas.</p>
