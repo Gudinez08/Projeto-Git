@@ -16,7 +16,7 @@
 
 <img src="img/04.png">
 
-<p>Usamos esse comando para iniar o git na pasta</p><br>
+<p>Usamos esse comando para inicar o git na pasta</p><br>
 
 <img src="img/05.png">
 
@@ -24,7 +24,7 @@
 
 <img src="img/06.png">
 
-<p>Os dois servem para linkar o repositório com a pasta remota, sendo que o segundo código serve para trazer o conteúdo existente no repositório</p><br>
+<p>Os dois servem para linkar o repositório com a pasta local, sendo que o segundo código serve para trazer o conteúdo existente no repositório</p><br>
 
 <img src="img/07.png">
 
@@ -36,7 +36,7 @@
 
 <img src="img/09.png">
 
-<p>Esse comando é basicamente o contrário do git pull falado anteriormente, ele serve para levar os arquivos e alterações remotas para o repositório</p><br>
+<p>Esse comando é basicamente o contrário do git pull falado anteriormente, ele serve para levar os arquivos e alterações locais para o repositório</p><br>
 
 <img src="img/10.png">
 
@@ -52,7 +52,7 @@
 
 <img src="img/13.png">
 
-<p>Para receber as alterações no remoto, usamos o git pull no git bash para recebê-los. Podemos dar um git log para ver se o commit foi recebido</p><br>
+<p>Para receber as alterações na pasta local, usamos o git pull no git bash para recebê-los. Podemos dar um git log para ver se o commit foi recebido</p><br>
 
 <img src="img/14.png">
 
